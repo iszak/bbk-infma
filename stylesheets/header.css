@@ -1,0 +1,42 @@
+/* Header */
+.header {
+    background-color: #fafafa;
+    border-bottom: 1px solid rgba(221, 221, 221, 0.5);
+    overflow: hidden;
+}
+
+.logo {
+    background-color: #50C0E9;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    color: #fff;
+    float: left;
+    font-size: 1.75rem;
+    font-weight: normal;
+    padding: 30px 0;
+    height: 100px;
+    margin: 20px;
+    text-align: center;
+    width: 250px;
+}
+
+
+/* Search */
+.search {
+    float: right;
+    margin: 20px;
+}
+
+.search-input {
+    height: 30px;
+    width: 220px;
+}
+
+.search-input:focus {
+    background-color: #eee;
+    outline: none;
+}
+
+.search-button {
+    height: 30px;
+}

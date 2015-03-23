@@ -1,0 +1,19 @@
+.breadcrumbs {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 0.75em;
+    margin: 0;
+    padding: 10px 10px 12px;
+    width: 100%;
+}
+
+.breadcrumbs li {
+    display: inline-block;
+}
+
+.breadcrumbs li:after {
+    content: '>';
+}
+
+.breadcrumbs li:last-child:after {
+    content: '';
+}
