@@ -63,38 +63,38 @@
 
            <div class="testimonial">
                <blockquote>
-                  This is a quote
-                  <cite>Person</cite>
+                  I thoroughly recommend
+                  <cite>Sophia</cite>
                </blockquote>
            </div>
            <div class="testimonial">
                <blockquote>
-                  This is a quote
-                  <cite>Person</cite>
+                  The support is fantastic
+                  <cite>Muhammad</cite>
                </blockquote>
            </div>
            <div class="testimonial">
                <blockquote>
-                  This is a quote
-                  <cite>Person</cite>
+                  Best I've found yet
+                  <cite>Emily</cite>
                </blockquote>
            </div>
            <div class="testimonial">
                <blockquote>
-                  This is a quote
-                  <cite>Person</cite>
+                  Not bad, but not great
+                  <cite>Oliver</cite>
                </blockquote>
            </div>
            <div class="testimonial">
                <blockquote>
-                  This is a quote
-                  <cite>Person</cite>
+                  It's the most economical product I've found
+                  <cite>Olivia</cite>
                </blockquote>
            </div>
            <div class="testimonial">
                <blockquote>
-                  This is a quote
-                  <cite>Person</cite>
+                  I've had bad experiences in the past but they exceed
+                  <cite>Jack</cite>
                </blockquote>
            </div>
         </aside>

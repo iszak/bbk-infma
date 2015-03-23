@@ -10,16 +10,16 @@
 
         <div class="grid">
           <aside class="column column-3">
-            <nav class="secondary-navigation">
+            <nav class="navigation-secondary">
               <ul>
                 <li>
-                  <a href="#">Junior Web Designer</a>
+                  <a href="#">Web Designer</a>
                 </li>
                 <li>
-                  <a href="#">Junior Web Developer</a>
+                  <a href="#">PHP Developer</a>
                 </li>
                 <li>
-                  <a href="#">Senior Web Developer</a>
+                  <a href="#">Systems Administrator</a>
                 </li>
               </ul>
             </nav>
@@ -44,29 +44,32 @@
               </li>
             </ul>
 
-            <h2>Senior Web Developer</h2>
+            <h2>Web Developer</h2>
 
             <h3>Requirements</h3>
             <ul>
               <li>
+                +4 years commercial experience
+              </li>
+              <li>
                 HTML
                 <ul>
-                  <li>WebGL</li>
-                  <li>WebRTC</li>
+                  <li>HAML / Jade</li>
+                  <li>Canvas / WebGL / WebRTC</li>
                 </ul>
               </li>
               <li>
                 CSS
                 <ul>
-                  <li>Animations</li>
+                  <li>SASS / LESS / Stylus</li>
+                  <li>Transitions / Animations</li>
                 </ul>
               </li>
               <li>
                 JavaScript
                 <ul>
-                  <li>Backbone</li>
-                  <li>Angular</li>
-                  <li>React</li>
+                  <li>Backbone / Angular / React</li>
+                  <li>Node.js / IO.js</li>
                 </ul>
               </li>
             </ul>
@@ -78,7 +81,9 @@
             <h4>Preferred</h4>
             <p>Masters of Computer Science</p>
 
-            <a href="#" class="button">Apply</a>
+            <p>
+              <a href="#" class="button">Apply</a>
+            </p>
           </main>
         </div>
 
