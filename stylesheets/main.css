@@ -14,3 +14,21 @@ body {
     font-family: Tahoma, Verdana, Segoe, sans-serif;
     margin: 0;
 }
+
+.text-center {
+    text-align: center;
+}
+
+.product {
+    overflow: hidden;
+    padding-bottom: 1em;
+}
+
+.product-description {
+    padding-left: 300px;
+}
+
+.product-image {
+    background-color: #A8D324;
+    float: left;
+}

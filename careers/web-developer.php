@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="en" dir="ltr">
     <head>
-<?php require_once 'partials/meta.php'; ?>
+<?php require_once '../partials/meta.php'; ?>
     </head>
     <body>
 
 
-<?php require_once 'partials/header.php'; ?>
+<?php require_once '../partials/header.php'; ?>
 
         <div class="grid">
           <aside class="column column-3">
@@ -16,7 +16,7 @@
                   <a href="#">Web Designer</a>
                 </li>
                 <li>
-                  <a href="#">PHP Developer</a>
+                  <a href="#">Web Developer</a>
                 </li>
                 <li>
                   <a href="#">Systems Administrator</a>
@@ -40,6 +40,11 @@
               <li>
                 <a href="#">
                   Careers
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  Web Developer
                 </a>
               </li>
             </ul>
@@ -87,7 +92,7 @@
           </main>
         </div>
 
-<?php require_once 'partials/footer.php'; ?>
+<?php require_once '../partials/footer.php'; ?>
 
     </body>
 </html>

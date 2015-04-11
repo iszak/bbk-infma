@@ -1,10 +1,14 @@
-        <header class="header">
-            <h1 class="logo">
-                Company name
-            </h1>
+        <header id="header">
+            <a href="/">
+                <h1 class="logo">
+                    Hayai Hosting
+                </h1>
+            </a>
 
             <form class="search" action="#">
-                <input class="search-input input" type="search" placeholder="Type what you are seraching for">
+                <label class="search-label" for="search">Search for</label>
+                <input class="search-input input" type="search" id="search" placeholder="Type what you are seraching for">
+
                 <input class="search-button button" type="submit" value="Search">
             </form>
 
@@ -20,7 +24,7 @@
                         <a href="#">Services</a>
                     </li>
                     <li>
-                        <a href="careers.php">Careers</a>
+                        <a href="#">About</a>
                     </li>
                     <li>
                         <a href="#">Help</a>

@@ -1,5 +1,5 @@
 /* Header */
-.header {
+#header {
     background-color: #fafafa;
     border-bottom: 1px solid rgba(221, 221, 221, 0.5);
     overflow: hidden;
@@ -25,6 +25,10 @@
 .search {
     float: right;
     margin: 20px;
+}
+
+.search-label {
+    font-size: 0.75em;
 }
 
 .search-input {

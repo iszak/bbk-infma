@@ -1,4 +1,4 @@
-        <footer class="footer">
+        <footer id="footer">
             <nav class="navigation-footer">
                 <ul>
                     <li>
@@ -8,7 +8,7 @@
                         <a href="#">FAQ</a>
                     </li>
                     <li>
-                        <a href="#">Sitemap</a>
+                        <a href="/sitemap.php">Sitemap</a>
                     </li>
                 </ul>
             </nav>

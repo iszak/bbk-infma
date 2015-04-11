@@ -10,49 +10,61 @@
 
         <main>
             <div class="introduction">
-                <h2>Introduction</h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet sem convallis, hendrerit elit ac, ornare sem. Donec maximus neque libero, id feugiat ipsum pharetra at. Etiam in mollis velit. Morbi at sem ut dolor dapibus tempor. Proin pellentesque, felis non eleifend rutrum, augue neque interdum odio, mattis rutrum lectus justo ut odio. Nunc vel orci ac felis volutpat venenatis vitae sed tellus. Phasellus facilisis vulputate sapien, quis iaculis dui mattis a. Vivamus ut dolor eu nunc pharetra elementum. Aliquam lacinia consectetur ultricies.
+                <h2 class="text-center">Stop wasting time setting up servers</h2>
+                <p class="text-center">
+                  Start building awesome products for your customers with our managed hosting packages it means all of the worries of setting up and managing servers are done for you.
                 </p>
             </div>
 
 
-            <div class="products">
-                <div class="product">
-                    <h2 class="product-title">Product title</h2>
-                    <img class="product-image" src="" alt="Product title">
-                    <ul class="product-features">
-                        <li>Feature description 1</li>
-                        <li>Feature description 2</li>
-                        <li>Feature description 3</li>
+            <div class="product-list">
+                <div class="product-list-item">
+                    <h2 class="product-list-item-title">Small</h2>
+                    <img class="product-list-item-image" src="" alt="Product title">
+                    <ul class="product-list-item-features">
+                        <li>1 GB Memory</li>
+                        <li>1 GHz CPU</li>
+                        <li>10 GB SSD</li>
+                        <li>100 GB traffic</li>
+                        <li>Email support</li>
+                        <li>No management</li>
+                        <li>Weekly back-ups</li>
                     </ul>
 
-                    <a href="#" class="product-button-buy-now button">Buy now</a>
-                    <a href="#" class="product-button-more-info button">More info</a>
+                    <a href="#" class="product-list-item-button-buy-now button">Buy now</a>
+                    <a href="/products/small.php" class="product-list-item-button-more-info button">More info</a>
                 </div>
-                <div class="product">
-                    <h2 class="product-title">Product title</h2>
-                    <img class="product-image" src="" alt="Product title">
-                    <ul class="product-features">
-                        <li>Feature description 1</li>
-                        <li>Feature description 2</li>
-                        <li>Feature description 3</li>
+                <div class="product-list-item">
+                    <h2 class="product-list-item-title">Medium</h2>
+                    <img class="product-list-item-image" src="" alt="Product title">
+                    <ul class="product-list-item-features">
+                        <li>2 GB Memory</li>
+                        <li>2 GHz CPU</li>
+                        <li>20 GB SSD</li>
+                        <li>200 GB traffic</li>
+                        <li>Phone support</li>
+                        <li>Basic management</li>
+                        <li>Daily back-ups</li>
                     </ul>
 
-                    <a href="#" class="product-button-buy-now button">Buy now</a>
-                    <a href="#" class="product-button-more-info button">More info</a>
+                    <a href="#" class="product-list-item-button-buy-now button">Buy now</a>
+                    <a href="#" class="product-list-item-button-more-info button">More info</a>
                 </div>
-                <div class="product">
-                    <h2 class="product-title">Product title</h2>
-                    <img class="product-image" src="" alt="Product title">
-                    <ul class="product-features">
-                        <li>Feature description 1</li>
-                        <li>Feature description 2</li>
-                        <li>Feature description 3</li>
+                <div class="product-list-item">
+                    <h2 class="product-list-item-title">Large</h2>
+                    <img class="product-list-item-image" src="" alt="Product title">
+                    <ul class="product-list-item-features">
+                        <li>5 GB Memory</li>
+                        <li>2 x 2.5 GHz CPU</li>
+                        <li>50 GB SSD</li>
+                        <li>500 GB traffic</li>
+                        <li>Personal support</li>
+                        <li>Expert management</li>
+                        <li>Hourly back-ups</li>
                     </ul>
 
-                    <a href="#" class="product-button-buy-now button">Buy now</a>
-                    <a href="#" class="product-button-more-info button">More info</a>
+                    <a href="#" class="product-list-item-button-buy-now button">Buy now</a>
+                    <a href="#" class="product-list-item-button-more-info button">More info</a>
                 </div>
             </div>
         </main>
