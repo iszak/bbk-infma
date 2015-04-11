@@ -20,7 +20,7 @@
             <div class="product-list">
                 <div class="product-list-item">
                     <h2 class="product-list-item-title">Small</h2>
-                    <img class="product-list-item-image" src="" alt="Product title">
+                    <img class="product-list-item-image" src="/images/small.jpg" alt="A small hosting package" longdesc="An artifical image of a virtual small hosting package">
                     <ul class="product-list-item-features">
                         <li>1 GB Memory</li>
                         <li>1 GHz CPU</li>
@@ -36,7 +36,7 @@
                 </div>
                 <div class="product-list-item">
                     <h2 class="product-list-item-title">Medium</h2>
-                    <img class="product-list-item-image" src="" alt="Product title">
+                    <img class="product-list-item-image" src="/images/medium.jpg" alt="A medium hosting package" longdesc="An artifical image of a virtual medium hosting package">
                     <ul class="product-list-item-features">
                         <li>2 GB Memory</li>
                         <li>2 GHz CPU</li>
@@ -52,7 +52,7 @@
                 </div>
                 <div class="product-list-item">
                     <h2 class="product-list-item-title">Large</h2>
-                    <img class="product-list-item-image" src="" alt="Product title">
+                    <img class="product-list-item-image" src="/images/large.jpg" alt="A large hosting package" longdesc="An artifical image of a virtual large hosting package">
                     <ul class="product-list-item-features">
                         <li>5 GB Memory</li>
                         <li>2 x 2.5 GHz CPU</li>

@@ -9,15 +9,19 @@
     background-color: #50C0E9;
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
-    color: #fff;
     float: left;
-    font-size: 1.75rem;
-    font-weight: normal;
     padding: 30px 0;
     height: 100px;
     margin: 20px;
-    text-align: center;
     width: 378px;
+}
+
+.logo a {
+    display: block;
+    color: #fff;
+    font-size: 1.75rem;
+    font-weight: normal;
+    text-align: center;
 }
 
 
@@ -43,4 +47,11 @@
 
 .search-button {
     height: 30px;
+}
+
+@media (max-width: 600px) {
+    .search {
+        float: none;
+        width: 100%;
+    }
 }

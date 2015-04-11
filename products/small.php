@@ -47,7 +47,7 @@
             <div class="product">
               <h2>Small</h2>
 
-              <img class="product-image" src="" width="275" height="275" />
+              <img class="product-image" src="/images/small.jpg" />
 
               <div class="product-description">
                 <p>

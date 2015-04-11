@@ -1,9 +1,9 @@
         <header id="header">
-            <a href="/">
                 <h1 class="logo">
-                    Hayai Hosting
+                    <a href="/">
+                        Hayai Hosting
+                    </a>
                 </h1>
-            </a>
 
             <form class="search" action="#">
                 <label class="search-label" for="search">Search for</label>

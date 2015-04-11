@@ -14,4 +14,4 @@
         <meta name="author" content="Iszak Bryan">
         <meta name="description" content="Hayai Hosting provides managed hosting">
 
-        <title>Hayai Hosting</title>
+        <title>Hayai Hosting - Managed UK Hosting</title>
