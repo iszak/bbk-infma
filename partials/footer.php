@@ -8,7 +8,7 @@
                         <a href="#">FAQ</a>
                     </li>
                     <li>
-                        <a href="/sitemap.php">Sitemap</a>
+                        <a href="/sitemap.html">Sitemap</a>
                     </li>
                 </ul>
             </nav>

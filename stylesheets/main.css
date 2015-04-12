@@ -15,20 +15,7 @@ body {
     margin: 0;
 }
 
+/* Utility Class */
 .text-center {
     text-align: center;
-}
-
-.product {
-    overflow: hidden;
-    padding-bottom: 1em;
-}
-
-.product-description {
-    padding-left: 400px;
-}
-
-.product-image {
-    background-color: #A8D324;
-    float: left;
 }

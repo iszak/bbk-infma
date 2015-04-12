@@ -36,13 +36,7 @@
 }
 
 .search-input {
-    height: 30px;
     width: 220px;
-}
-
-.search-input:focus {
-    background-color: #eee;
-    outline: none;
 }
 
 .search-button {

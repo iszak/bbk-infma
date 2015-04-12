@@ -1,0 +1,14 @@
+/* Product Page */
+.product {
+    overflow: hidden;
+    padding-bottom: 1em;
+}
+
+.product-description {
+    padding-left: 400px;
+}
+
+.product-image {
+    background-color: #A8D324;
+    float: left;
+}

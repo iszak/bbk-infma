@@ -15,7 +15,7 @@
             <nav class="navigation-primary">
                 <ul>
                     <li class="navigation-primary-active">
-                        <a href="index.php">Home</a>
+                        <a href="index.html">Home</a>
                     </li>
                     <li>
                         <a href="#">Products</a>
