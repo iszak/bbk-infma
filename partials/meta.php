@@ -2,7 +2,6 @@
 
         <link href="/stylesheets/layout.css" rel="stylesheet" type="text/css">
 
-
         <meta name="author" content="Iszak Bryan">
         <meta name="description" content="Hayai Hosting provides managed hosting">
 
